@@ -1,0 +1,2 @@
+# I6A-2022-API-DE-ZAGITL-ORTIZ-CRUZ
+Consumo de API CURP, desde Angular
